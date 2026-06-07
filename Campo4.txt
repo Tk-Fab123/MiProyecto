@@ -1,2 +1,0 @@
-Prueba de stash: este cambio será 
-guardado temporalmente
