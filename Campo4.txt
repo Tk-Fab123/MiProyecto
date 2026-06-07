@@ -1,0 +1,6 @@
+Hola Campo 4
+
+Este es el desarrollo del Campo 4 del proyecto.
+Aquí se aplican buenas prácticas de Git y
+ comandos avanzados como 
+ stash, revert y cherry-pick.
